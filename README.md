@@ -36,7 +36,7 @@ Three roles: Admin (full access including system reset), Owner (everything excep
 
 | Role | What they can do |
 |---|---|
-| Admin | Everything. Hidden login — press **Ctrl+Shift+A** on the login page |
+| Admin | Everything, including system reset |
 | Owner | Products, inventory, reports, debts, drawer, repairs, users, settings. Sees cost prices |
 | Employee | Point of sale only. No cost prices, no reports, no drawer, no user management |
 
@@ -89,7 +89,6 @@ Requirements: Windows 10 or 11, Python 3.11+, internet for first install only.
 - **Debt payment:** Debts → Customers or Dealers → Record Payment
 - **Repair job:** Repairs → New Repair → fill in the details → print receipt
 - **End of day:** Reports → Close Day, then New Day for tomorrow
-- **Admin login:** Ctrl+Shift+A on the login page
 
 ---
 
